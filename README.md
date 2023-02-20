@@ -1,4 +1,4 @@
--  Hi, I’m Jasveer
+-  Hi, I’m Jasveer Dhillon
 -  I’m interested in physics, maths and philosophy 
 -  I’m currently learning Python
 -  How to reach me @Zelda's Knight#7845 (Discord)
